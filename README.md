@@ -85,20 +85,12 @@ Me chamo Matheus, tenho 20 anos e sou natural de São Paulo. Me formei no curso 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<!-- Estatísticas gerais -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ma-t-h-e-us&show_icons=true&theme=dark&hide_border=true)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<!-- Linguagens mais usadas -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-t-h-e-us&layout=compact&langs_count=8&theme=dark&hide_border=true)
 
-</p>
+<!-- Estatísticas focadas em Data Science -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ma-t-h-e-us&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ma-t-h-e-us&theme=dark)

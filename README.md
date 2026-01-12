@@ -85,12 +85,6 @@ Me chamo Matheus, tenho 20 anos e sou natural de São Paulo. Me formei no curso 
 
 ### 📊 Estatísticas
 
-<!-- Estatísticas gerais -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ma-t-h-e-us&show_icons=true&theme=dark&hide_border=true)
-
-<!-- Linguagens mais usadas -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-t-h-e-us&layout=compact&langs_count=8&theme=dark&hide_border=true)
-
 <!-- Estatísticas focadas em Data Science -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ma-t-h-e-us&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ma-t-h-e-us&theme=dark)
